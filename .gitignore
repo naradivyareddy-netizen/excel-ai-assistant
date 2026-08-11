@@ -1,7 +1,1 @@
-__pycache__/
-*.pyc
-build/
-dist/
-*.zip
-~$*
-*.spec
+# empty - track everything
