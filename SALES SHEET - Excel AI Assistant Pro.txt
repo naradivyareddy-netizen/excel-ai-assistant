@@ -1,0 +1,80 @@
+==================================================================
+         EXCEL AI ASSISTANT PRO  -  PRODUCT SALES SHEET
+==================================================================
+
+  "Find, explain and AUTO-FIX every common Excel problem -
+   plus build formulas, dashboards, VBA and reports in seconds."
+
+
+------------------------------------------------------------------
+ WHAT IT IS
+------------------------------------------------------------------
+A complete, professional Excel troubleshooting and productivity
+assistant. Upload any Excel/CSV file and the app instantly finds
+errors, explains them in plain English, and fixes them with one
+click - then helps you build formulas, charts, macros and reports.
+
+
+------------------------------------------------------------------
+ KEY FEATURES
+------------------------------------------------------------------
+ [+] FORMULA ERROR FIXER
+     Detects #VALUE!, #DIV/0!, #N/A, #REF!, #NAME?, #NUM!, #NULL!,
+     circular & broken references. Shows the cell, the reason, and
+     the fix - then AUTO-FIXES and saves a corrected file.
+
+ [+] DATA CLEANER
+     Remove duplicates & blank rows, trim spaces, fix dates,
+     standardise text and headers - one click.
+
+ [+] AI FORMULA GENERATOR
+     Type plain English ("calculate tax", "top 10 sales") -> get
+     the exact Excel formula + explanation.
+
+ [+] PIVOT TABLE ASSISTANT
+     Auto-build summary tables grouped by any column.
+
+ [+] DASHBOARD BUILDER
+     Instant bar, pie, trend charts and KPI cards from your data.
+
+ [+] VBA / MACRO GENERATOR
+     Describe a task -> get ready-to-paste VBA code.
+
+ [+] AI CHAT ASSISTANT
+     Ask any Excel question (VLOOKUP, XLOOKUP, pivots, Power Query).
+
+ [+] HEALTH CHECK & REPORTS
+     Score your workbook's quality and export an audit report.
+
+
+------------------------------------------------------------------
+ WHY IT'S VALUABLE
+------------------------------------------------------------------
+ *  NO MONTHLY FEES - built-in offline AI, no paid API required
+ *  WORKS EVERYWHERE - Windows desktop app + web app for
+    iPhone, Mac, Android, any device
+ *  READY TO RUN - no installation or coding needed
+ *  FULL SOURCE CODE INCLUDED - rebrand and extend freely
+ *  SAVES HOURS - fixes errors automatically that normally take
+    ages to hunt down by hand
+
+
+------------------------------------------------------------------
+ WHO IT'S FOR
+------------------------------------------------------------------
+ Accountants, analysts, students, small businesses, HR & finance
+ teams - anyone who works with Excel and hits errors.
+
+
+------------------------------------------------------------------
+ WHAT THE BUYER RECEIVES
+------------------------------------------------------------------
+ 1. Windows desktop app (ready-to-run .exe)
+ 2. Full web-app source files (host your own link, any device)
+ 3. Complete source code (Python)
+ 4. Sample data files for demos
+ 5. Buyer's Guide (setup & hosting instructions)
+
+==================================================================
+  Contact: ____________________      Price: ____________________
+==================================================================

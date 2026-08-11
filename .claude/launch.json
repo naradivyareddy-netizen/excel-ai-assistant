@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "sushi",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "http.server", "8731", "--directory", "C:/Users/narad/Desktop/sushi co appp"],
+      "port": 8731
+    }
+  ]
+}

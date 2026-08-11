@@ -1,0 +1,93 @@
+==================================================================
+        EXCEL AI ASSISTANT PRO  -  BUYER'S GUIDE
+==================================================================
+Thank you for your purchase! This guide explains what you received
+and how to run, host, and customise your app. No coding needed.
+
+
+------------------------------------------------------------------
+ 1) WHAT'S INCLUDED (in this folder)
+------------------------------------------------------------------
+  dist\Excel AI Assistant Pro.exe ... The Windows desktop app
+  Excel_AI_Assistant_Pro.py ......... Desktop app source code
+  WebApp\ ........................... Web app source files
+        app.py, Dockerfile, requirements.txt, README.md
+  Sample Files\ ..................... Demo Excel files
+  Excel_Error_Sample.xlsx ........... Demo file full of errors
+  ..._SHARE.zip ..................... Windows app packaged to share
+
+
+------------------------------------------------------------------
+ 2) RUN THE WINDOWS APP (offline, easiest)
+------------------------------------------------------------------
+  - Double-click:  dist\Excel AI Assistant Pro.exe
+  - First launch takes ~15 seconds.
+  - If Windows shows a blue "SmartScreen" box:
+        click "More info" -> "Run anyway"  (it is safe; unsigned).
+  - No Python or installation required. Works on any Windows PC.
+
+
+------------------------------------------------------------------
+ 3) HOW TO USE IT
+------------------------------------------------------------------
+  1. Click "Upload Excel" and choose a file (.xlsx, .xls, .csv).
+  2. Go to "Formula Fixer":
+        - "Scan Workbook" -> review every error + fix.
+        - "Auto-Fix & Save File" -> get a corrected copy.
+  3. Explore other tabs: Data Cleaner, Pivot, VBA, Dashboard,
+     AI Chat, Health Check, Reports.
+  Tip: upload one file at a time.
+
+
+------------------------------------------------------------------
+ 4) PUT THE WEB APP ONLINE (works on iPhone, Mac, anywhere)
+------------------------------------------------------------------
+  This makes a public link that works on every device.
+
+  A. Create a free account at  https://huggingface.co
+  B. Click "+ New Space".
+        - Name it anything (e.g. excel-ai-assistant-pro)
+        - SDK: choose "Docker"
+        - Hardware: CPU basic (Free) ; Visibility: Public
+        - Create Space
+  C. Open the "Files" tab -> "Add file" -> "Upload files".
+        Drag in the 4 files from the WebApp folder:
+        app.py, requirements.txt, README.md, Dockerfile
+        Then click "Commit changes".
+  D. Wait until the status says "Running" (3-5 min).
+  E. Your public link:
+        https://huggingface.co/spaces/YOUR-USERNAME/your-space-name
+     Open it on any device. On iPhone (Safari): Share ->
+     "Add to Home Screen" to use it like an app.
+
+
+------------------------------------------------------------------
+ 5) CUSTOMISE / REBRAND (optional)
+------------------------------------------------------------------
+  - To rename the app: edit the title text in app.py
+    (and Excel_AI_Assistant_Pro.py for the desktop version).
+  - To make answers smarter, you can connect an OpenAI API key
+    (note: that adds pay-per-use cost from OpenAI).
+  - Colours and tabs can be edited in the same files.
+
+
+------------------------------------------------------------------
+ 6) GOOD TO KNOW (honest notes)
+------------------------------------------------------------------
+  - The built-in AI is offline/rule-based: great for common Excel
+    tasks, with NO monthly fees. It is not a full ChatGPT unless
+    you add your own API key.
+  - The "iPhone app" is the web link added to the home screen
+    (not an App Store listing).
+  - The free web host "sleeps" when unused; first open after a
+    while takes ~30 seconds to wake up.
+
+
+------------------------------------------------------------------
+ 7) SUPPORT
+------------------------------------------------------------------
+  Seller contact: __________________________________
+
+==================================================================
+  You now own this copy of Excel AI Assistant Pro. Enjoy!
+==================================================================

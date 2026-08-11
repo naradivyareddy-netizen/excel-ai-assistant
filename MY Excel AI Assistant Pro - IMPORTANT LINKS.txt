@@ -1,0 +1,69 @@
+==================================================================
+        EXCEL AI ASSISTANT PRO  -  MY IMPORTANT INFO
+==================================================================
+(Keep this file safe! It has everything you need.)
+
+
+------------------------------------------------------------------
+1)  MY LIVE WEB APP  (use on iPhone, Mac, Windows - ANYWHERE)
+------------------------------------------------------------------
+LINK:
+    https://huggingface.co/spaces/Nara25/excel-ai-assistant-pro
+
+- Open this link in any browser (Safari, Chrome) on any device.
+- Works on mobile data, any WiFi, anywhere in the world.
+- Works even when your computer is OFF.
+- Share this same link with friends - they just click it.
+
+iPHONE TIP:
+    Open the link in Safari -> tap Share -> "Add to Home Screen"
+    -> it becomes an app icon on your phone.
+
+NOTE: If unused for a while it "sleeps". The first open after that
+takes about 30 seconds to wake up. That is normal.
+
+
+------------------------------------------------------------------
+2)  MY WINDOWS DESKTOP APP  (works offline, no internet)
+------------------------------------------------------------------
+- Double-click the Desktop shortcut:  "Excel AI Assistant Pro"
+- Or open the file:
+    Desktop \ AI EXCEL \ dist \ Excel AI Assistant Pro.exe
+- Do NOT delete the "dist" folder (the shortcut points to it).
+
+
+------------------------------------------------------------------
+3)  MY HUGGING FACE ACCOUNT  (only to MANAGE / UPDATE the app)
+------------------------------------------------------------------
+- Website to log in:   https://huggingface.co
+- My username:         Nara25
+- My password:         __________________________  (write it here)
+- Manage my app:       https://huggingface.co/spaces/Nara25/excel-ai-assistant-pro
+
+(The app runs whether I am logged in or not. Login is only so I
+can update or change the app later.)
+
+
+------------------------------------------------------------------
+4)  APP SOURCE FILES  (only needed to CHANGE the app later)
+------------------------------------------------------------------
+- Folder:  Desktop \ AI EXCEL \ WebApp
+- Main files: app.py, requirements.txt, Dockerfile, README.md
+- To update the live app: edit a file, then upload it on the
+  Hugging Face "Files" tab (drag & drop), then "Commit changes".
+
+
+------------------------------------------------------------------
+5)  HOW I USE IT (main purpose - fixing Excel errors)
+------------------------------------------------------------------
+1. Open the app (link or desktop).
+2. Upload my Excel/CSV file (ONE file at a time).
+3. Go to "Formula Fixer" tab:
+     - "Scan" to see each error, its reason, and the fix.
+     - "Auto-Fix & Save/Download" to get a corrected file.
+4. Other tabs: Data Cleaner, Dashboard, Pivot, VBA, AI Chat,
+   Health Check, Reports.
+
+==================================================================
+Created with help from Claude. Keep this file on your Desktop.
+==================================================================
